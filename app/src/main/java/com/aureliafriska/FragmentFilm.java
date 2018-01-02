@@ -1,4 +1,4 @@
-package com.aureliafriska.androidbottomnavigationview;
+package com.aureliafriska;
 
 
 import android.os.Bundle;
