@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Netto Bruto</string>
-    <string name="buku">Netto</string>
-    <string name="musik">Bruto</string>
+    <string name="app_name">Buku Alamat</string>
+    <string name="buku">Input</string>
+    <string name="musik">Data</string>
     <string name="film">Film</string>
     <string name="fragment_buku">Fragment Buku</string>
     <string name="fragment_film">Fragment Film</string>
